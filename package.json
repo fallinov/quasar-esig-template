@@ -1,9 +1,9 @@
 {
-  "name": "quasar-sfa",
+  "name": "quasar-esig",
   "version": "0.0.1",
-  "description": "A Quasar Project",
-  "productName": "Quasar App",
-  "author": "Steve Fallet <steve.fallet@divtec.ch>",
+  "description": "Template ESIG pour projets Quasar",
+  "productName": "Quasar App ESIG",
+  "author": "Steve Fallet <steve.fallet@divcom.ch>",
   "private": true,
   "scripts": {
     "lint": "eslint --ext .js,.vue ./",
